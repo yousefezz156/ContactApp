@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Contact app</string>
+    <string name="uncle_Ahmed">عم احمد</string>
+    <string name="fares">فارس العصب</string>
+    <string name="tamer">اخويا الجيار</string>
+    <string name="nasser">ناصر الدسوقي</string>
+    <string name="refai">رفاعي الدسوقي</string>
+    <string name="Mbappe">امبابي الاصلي</string>
+    <string name="shwaha">شواحة</string>
+    <string name="adel">عادل شكل</string>
+    <string name="mohamed">محمد حمضان</string>
+    <string name="amr">عمرو بيلا</string>
+    <string name="gaafar">جعفر العمدة</string>
+    <string name="Num_uncle_Ahmed">+201158983905</string>
+    <string name="Nun_fares">+201058983905</string>
+    <string name="Nun_tamer">+201258983905</string>
+    <string name="Nun_nasser">+201558983905</string>
+    <string name="Nun_refai">+201003003905</string>
+    <string name="Nun_Mbappe">+201158983905</string>
+    <string name="Nun_shwaha">+3400100900</string>
+    <string name="Nun_adel">+201154944697</string>
+    <string name="Nun_mohamed">+201065893568</string>
+    <string name="Nun_amr">+201187696795</string>
+    <string name="Num_gaafar">+201187788795</string>
+</resources>
