@@ -166,6 +166,11 @@ class MainActivity : ComponentActivity() {
         }
     }
 
+fun test(s:Int){
+    s+3
+}
+
+
 
     @Preview(showBackground = true, showSystemUi = true)
     @Composable
