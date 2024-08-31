@@ -167,7 +167,7 @@ class MainActivity : ComponentActivity() {
     }
 
 fun test(s:Int){
-    s+3
+    s+4
 }
 
 
